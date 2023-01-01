@@ -27,4 +27,4 @@ for i=1:1:1536
     end
 end
 imshow(x);
-% Abdullah yaseein
+
