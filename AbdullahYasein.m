@@ -28,4 +28,3 @@ for i=1:1:1536
 end
 imshow(x);
 % Abdullah yaseein
-% 201911036
